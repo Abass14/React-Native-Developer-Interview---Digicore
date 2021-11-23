@@ -1,4 +1,9 @@
 const tableTennisScore = (tomScores, jackScores) => {
+    //set score counts for the two mutable variables
+    //declare an empty array that will later be the result
+    //loop through the game round
+    //compare the scores of both players at same index, and record score with count variables declared ealier
+    //push counts for both playes into result array and output result array 
     let tomCount = 0;
     let jackCount = 0;
     const result = []
